@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formSql1914113", "formSql1914113\formSql1914113.csproj", "{7F7C91BC-7ACC-463D-B8E1-58C6F3B627BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7C91BC-7ACC-463D-B8E1-58C6F3B627BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7C91BC-7ACC-463D-B8E1-58C6F3B627BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7C91BC-7ACC-463D-B8E1-58C6F3B627BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7C91BC-7ACC-463D-B8E1-58C6F3B627BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C752906-F6BE-47FB-A6A2-862F88F9F470}
+	EndGlobalSection
+EndGlobal
